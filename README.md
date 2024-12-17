@@ -21,3 +21,5 @@ Briefly summarize The Gaming Room client and their software requirements. Who wa
   How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
     
    The design process involved gathering requirements, creating use cases, and employing iterative prototyping. In the future, I would continue using agile methodologies, incorporate more user feedback loops, and leverage tools like UML diagrams for clearer visualization of system components and interactions.
+
+  Thank you for reading. 
