@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/Last%20Updated-12%2F13%2F2024-lightgrey?style=for-the-badge" />
 </p>
 
+> 📄 **Downloadable DOCX for this pitch:** [CS 230 Project 3 final pitch RP.docx](./CS%20230%20Project%203%20final%20pitch%20RP.docx)
+
 ---
 
 ## 📚 Table of Contents
@@ -41,9 +43,9 @@
 
 ## 🚀 Executive Summary
 
-This software design document presents the proposed solution for developing **“Draw It or Lose It,”** a web-based game application for our client, **The Gaming Room**. Inspired by the classic TV game show *Win, Lose, or Draw*, this game enables teams to compete by guessing drawings.
+This software design document presents the proposed solution for developing **“Draw It or Lose It,”** a web-based game application for our client, **The Gaming Room**. Inspired by the classic [...]
 
-The solution includes displaying images from a stock drawing library as clues and supporting multiple teams through four rounds of gameplay. By transitioning to a web-based platform, the game becomes accessible across many devices and operating systems, delivering a more engaging and user-friendly experience.
+The solution includes displaying images from a stock drawing library as clues and supporting multiple teams through four rounds of gameplay. By transitioning to a web-based platform, the game beco[...]
 
 ---
 
@@ -119,10 +121,10 @@ Using platform analysis across **Linux, Mac, Windows, and Mobile**, the followin
 
 | Platform | Evaluation |
 |----------|------------|
-| **Mac** | **Characteristics:** Unix-based, stable, secure. **Advantages:** Robust ecosystem, developer friendly. **Weaknesses:** Higher hardware costs, limited scalability compared to Linux and Windows. |
-| **Linux** | **Characteristics:** Open-source, highly customizable. **Advantages:** Highly scalable, stable, secure, and provides broad access to software/tools. **Weaknesses:** GUI limitations and occasional hardware compatibility issues. |
-| **Windows** | **Characteristics:** Extensive software compatibility with strong developer support. **Advantages:** Broad hardware support and comprehensive documentation. **Weaknesses:** More prone to known security vulnerabilities. |
-| **Mobile Devices** | **Characteristics:** Portable, touch/gesture-based. **Advantages:** Built-in hardware features like camera, GPS, push notifications. **Weaknesses:** Smaller screens and varying hardware capabilities. |
+| **Mac** | **Characteristics:** Unix-based, stable, secure. **Advantages:** Robust ecosystem, developer friendly. **Weaknesses:** Higher hardware costs, limited scalability compared to Linux and[...] |
+| **Linux** | **Characteristics:** Open-source, highly customizable. **Advantages:** Highly scalable, stable, secure, and provides broad access to software/tools. **Weaknesses:** GUI limitations [...] |
+| **Windows** | **Characteristics:** Extensive software compatibility with strong developer support. **Advantages:** Broad hardware support and comprehensive documentation. **Weaknesses:** More p[...] |
+| **Mobile Devices** | **Characteristics:** Portable, touch/gesture-based. **Advantages:** Built-in hardware features like camera, GPS, push notifications. **Weaknesses:** Smaller screens and var[...] |
 
 ### Client Side
 
@@ -288,4 +290,3 @@ This design supports The Gaming Room’s goals for:
 The result is a practical, future-ready foundation for **Draw It or Lose It**.
 
 ---
-```
